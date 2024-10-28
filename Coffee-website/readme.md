@@ -1,2 +1,2 @@
 <h1>Coffee Cafe website created on wix </h1>
-<a href="">Clicl here to see preview</a>
+<a href="https://riya98012.wixstudio.io/coffee">Click here</a>
